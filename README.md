@@ -20,6 +20,9 @@ With these questions in mind, I went about analyzig what made City-Bike data so 
 
 ## Results
 
+![](https://github.com/willmino/bikesharing/blob/main/png%20of%20viz/Top%20Starting%20Locations.png)
+
+
 ![c](https://github.com/willmino/bikesharing/blob/main/png%20of%20viz/Checkout%20Times%20for%20Users.png)
 
 
