@@ -10,15 +10,36 @@ Data from City-Bike, a bike sharing transportation company similar to Bird or Li
 
 To observe what made the platform practical we asked the following questions:
 
-What specific features (weather, topography) of NYC allow for the city-bike to be appealing to customers?
+- What specific features (weather, topography) of NYC allow for the city-bike to be appealing to customers?
 
-What types of customers are consuming the city-bike platform? (Subscribers vs. One-time purchasers)
+- What types of customers are consuming the city-bike platform? (Subscribers vs. One-time purchasers)
 
-Are there specific areas in NYC that are more likely to attract customers to paying for the city-bike services?
+- Are there specific areas in NYC that are more likely to attract customers to paying for the city-bike services?
 
 With these questions in mind, I went about analyzig what made City-Bike data so successful in New York City.
 
 ## Results
+
+![c](https://github.com/willmino/bikesharing/blob/main/png%20of%20viz/Checkout%20Times%20for%20Users.png)
+
+
+![c](https://github.com/willmino/bikesharing/blob/main/png%20of%20viz/Checkout%20Times%20by%20Gender.png)
+
+
+![c](https://github.com/willmino/bikesharing/blob/main/png%20of%20viz/Average%20Trip%20Duration.png)
+
+
+![c](https://github.com/willmino/bikesharing/blob/main/png%20of%20viz/Trips%20by%20Weekday%20for%20Each%20Hour%20.png)
+
+
+![c](https://github.com/willmino/bikesharing/blob/main/png%20of%20viz/Trips%20by%20Gender%20(Weekday%20per%20Hour)%20.png)
+
+
+![c](https://github.com/willmino/bikesharing/blob/main/png%20of%20viz/User%20Trips%20by%20Gender%20by%20Weekday.png)
+
+
+
+
 
 
 
