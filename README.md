@@ -1,5 +1,5 @@
-# Bikesharing with Tableau
-Use tableau to visualize NYC City-Bike data to help make the case for starting a City-Bike inspired company in Des Moines, Iowa.
+# Bike-sharing Service in NYC
+Tableau visualizations of NYC City-Bike data to help make the case for starting a City-Bike inspired company in Des Moines, Iowa.
 
 [link to my City-Bike Story](https://public.tableau.com/views/20230306_City_Bike_Story/City_Bike_Story?:language=en-US&:display_count=n&:origin=viz_share_link)
 
